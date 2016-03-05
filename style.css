@@ -13,7 +13,7 @@ body {
 	text-align:center;
 	font-size:16px;
 	position: relative;
-	text-shadow: 4px 3px 11px #1a1a1a;
+	text-shadow: 4px 3px 11px #1a1a1a,-1px -1px 0 #666, 1px -1px 0 #666,-1px 1px 0 #666,1px 1px 0 #666;
 	margin: 0;
 	padding: 0;
 }
@@ -37,7 +37,7 @@ header, nav, h1, h2, h3, h4 {
 	-webkit-transform: translate(-50%, -50%);
 }
 h1 .tiny {
-	font-size: 40%;
+	font-size: 50%;
 	font-weight: 100;
 }
 #social {
@@ -55,8 +55,11 @@ h1 .tiny {
 	overflow: hidden;
 	display: inline-block;
 	color: #000;
-	width:32px;
-	height:32px;
+	width:33px;
+	height:33px;
+	border: 0 solid transparent;
+	border-radius: 50%;
+	box-shadow: 0 0 6px #000 inset;
 }
 #social li a.linkedIn {background-position: -297px -5px;}
 #social li a.linkedIn:hover, #social li a.linkedIn:focus {background-position: -297px -63px;}
