@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+html {
+	background: url(images/bg-sm.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+body {
+	font-family: Open-Sans, Calibri, Arial, sans-serif;
+	color:#FFF;
+	text-align:center;
+	font-size:16px;
+	position: relative;
+	text-shadow: 4px 3px 11px #1a1a1a;
+	margin: 0;
+	padding: 0;
+}
+a:link, a:visited {
+	color:#CCC;
+	text-decoration:none;
+}
+a:hover, a:active {
+	color:#06C;
+}
+header, nav, h1, h2, h3, h4 {
+	font-family: 'Fredoka One', cursive;
+}
+#content {
+	max-width: 100%;
+	width: 90%;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	-webkit-transform: translate(-50%, -50%);
+}
+h1 .tiny {
+	font-size: 40%;
+	font-weight: 100;
+}
+#social {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#social li {
+	display: inline;
+}
+#social li a {
+	background: url("images/social.png") no-repeat;
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+	display: inline-block;
+	color: #000;
+	width:32px;
+	height:32px;
+}
+#social li a.linkedIn {background-position: -297px -5px;}
+#social li a.linkedIn:hover, #social li a.linkedIn:focus {background-position: -297px -63px;}
+#social li a.twitter {background-position: -239px -5px;}
+#social li a.twitter:hover, #social li a.twitter:focus {background-position: -239px -63px;}
+#social li a.facebook {background-position: -125px -6px;}
+#social li a.facebook:hover, #social li a.facebook:focus {background-position: -125px -63px;}
+#social li a.google {background-position: -68px -5px;}
+#social li a.google:hover, #social li a.google:focus {background-position: -68px -62px;}
+#social li a.gitHub {background-position: -354px -5px;}
+#social li a.gitHub:hover, #social li a.gitHub:focus {background-position: -354px -63px;}
+#social li a.skype {background-position: -182px -5px;}
+#social li a.skype:hover, #social li a.skype:focus {background-position: -182px -63px;}
