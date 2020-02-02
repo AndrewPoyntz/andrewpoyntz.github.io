@@ -22,9 +22,9 @@
 		for(let i=1; i <= numOfFiles; i++){
 			let gpx = i + '.gpx';
 			new L.GPX(gpx, {async: true, marker_options:{startIcon:false, startIconUrl:false, endIcon:false, endIconUrl:false}}).on('loaded', function(e) {
-				bounds.extend(e.target.getBounds());
 			}).addTo(map);
 		}
+		map.fitBounds([{lat: 50.387507803003146, lng: -4.119186401367188}, {lat: 50.74818705628613, lng: -3.7106323242187504}]);
 	})
 </script>
 </html>
