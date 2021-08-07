@@ -22,10 +22,16 @@
 		const numOfFiles = 111;
 		L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {}).addTo(map);
 		let bounds = L.latLngBounds([59.55, -3.9]);
+		let skip =[71,78,79,81,82,86,92,94,101,107];
 		for(let i=1; i <= numOfFiles; i++){
 			let gpx = i + '.gpx';
-			new L.GPX(gpx, {async: true, marker_options:{startIcon:false, startIconUrl:false, endIcon:false, endIconUrl:false}}).on('loaded', function(e) {
-			}).addTo(map);
+			if(!skip.includes(i)) {
+				new L.GPX(gpx, {
+					async: true,
+					marker_options: {startIcon: false, startIconUrl: false, endIcon: false, endIconUrl: false}
+				}).on('loaded', function (e) {
+				}).addTo(map);
+			}
 		}
 		map.fitBounds([{lat: 50.387507803003146, lng: -4.119186401367188}, {lat: 50.74818705628613, lng: -3.7106323242187504}]);
 	})
