@@ -19,7 +19,7 @@
 <script>
 	$(document).ready(function () {
 		const map  = L.map('map').setView([50.55, -3.9], 11);
-		const numOfFiles = 61;
+		const numOfFiles = 111;
 		L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {}).addTo(map);
 		let bounds = L.latLngBounds([59.55, -3.9]);
 		for(let i=1; i <= numOfFiles; i++){
