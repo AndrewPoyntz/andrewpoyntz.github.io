@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<gpx version="1.1" 
+creator="Memory-Map 5.4.2.1089 http://www.memory-map.com"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<rte>
+<name>Dartmoor 365 Y11-Y12</name>
+<type>Route:Dartmoor 365 Grid:Horizontal Lines</type>
+<rtept lat="50.3948656881" lon="-3.9247342791">
+<name>WP0602</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.3956063263" lon="-3.8794581402">
+<name>WP0802</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 X9-X14</name>
+<type>Route:Dartmoor 365 Grid:Horizontal Lines</type>
+<rtept lat="50.4085778082" lon="-3.9706087094">
+<name>WP0302</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.4108008566" lon="-3.8347390186">
+<name>WP1202</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 W9-W14</name>
+<type>Route:Dartmoor 365 Grid:Horizontal Lines</type>
+<rtept lat="50.4229582594" lon="-3.9712056770">
+<name>WP0501</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.4255377052" lon="-3.8126414572">
+<name>WP0502</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 V8-V16</name>
+<type>Route:Dartmoor 365 Grid:Horizontal Lines</type>
+<rtept lat="50.4371929655" lon="-3.9943949510">
+<name>WP0402</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.4403603506" lon="-3.7905335747">
+<name>WP1402</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 V5</name>
+<type>Route:Dartmoor 365 Grid:Horizontal Lines</type>
+<rtept lat="50.4358593110" lon="-4.0622911629">
+<name>WP1002</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.4362588296" lon="-4.0396356645">
+<name>WP0902</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 U7-U16</name>
+<type>Route:Dartmoor 365 Grid:Horizontal Lines</type>
+<rtept lat="50.4513035394" lon="-4.0176027461">
+<name>WP0202</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.4548320956" lon="-3.7910800248">
+<name>WP0202</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 U4-U5</name>
+<type>Route:Dartmoor 365 Grid:Vertical Lines</type>
+<rtept lat="50.4499246218" lon="-4.0855822871">
+<name>WP2202</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.4507284780" lon="-4.0402580057">
+<name>WP0102</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 T4-T16</name>
+<type>Route:Dartmoor 365 Grid:Horizontal Lines</type>
+<rtept lat="50.4643938175" lon="-4.0862189484">
+<name>WP0001</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.4696507828" lon="-3.7689518721">
+<name>WP1502</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 S4-S17</name>
+<type>Route:Dartmoor 365 Grid:Horizontal Lines</type>
+<rtept lat="50.4788629711" lon="-4.0868561313">
+<name>WP0101</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.4841226243" lon="-3.7694923005">
+<name>WP0102</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 R3-R17</name>
+<type>Route:Dartmoor 365 Grid:Horizontal Lines</type>
+<rtept lat="50.4929229121" lon="-4.1101759286">
+<name>WP2702</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.4985944254" lon="-3.7700331717">
+<name>WP0002</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 Q1-Q19</name>
+<type>Route:Dartmoor 365 Grid:Horizontal Lines</type>
+<rtept lat="50.5069779734" lon="-4.1335095626">
+<name>WP3302</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.5137479488" lon="-3.7251815215">
+<name>WP1702</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 P1-P19</name>
+<type>Route:Dartmoor 365 Grid:Horizontal Lines</type>
+<rtept lat="50.5214465800" lon="-4.1341621668">
+<name>WP3901</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.5285544358" lon="-3.7030053401">
+<name>WP1802</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 O2-O20</name>
+<type>Route:Dartmoor 365 Grid:Horizontal Lines</type>
+<rtept lat="50.5359151442" lon="-4.1348153059">
+<name>WP3801</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.5430266357" lon="-3.7035267197">
+<name>WP3802</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 N2-N20</name>
+<type>Route:Dartmoor 365 Grid:Horizontal Lines</type>
+<rtept lat="50.5503836662" lon="-4.1354689807">
+<name>WP3001</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.5578291259" lon="-3.6813301406">
+<name>WP2002</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 M2-M21</name>
+<type>Route:Dartmoor 365 Grid:Horizontal Lines</type>
+<rtept lat="50.5648521458" lon="-4.1361231917">
+<name>WP2902</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.5723014145" lon="-3.6818454229">
+<name>WP3602</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 L2-L21</name>
+<type>Route:Dartmoor 365 Grid:Horizontal Lines</type>
+<rtept lat="50.5793205831" lon="-4.1367779394">
+<name>WP3501</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.5867736632" lon="-3.6823611281">
+<name>WP3502</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 K1-K21</name>
+<type>Route:Dartmoor 365 Grid:Horizontal Lines</type>
+<rtept lat="50.5933694751" lon="-4.1601628158">
+<name>WP2802</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.6012466884" lon="-3.6828207610">
+<name>WP2001</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 I1-J1</name>
+<type>Route:Dartmoor 365 Grid:Vertical Lines</type>
+<rtept lat="50.6223057087" lon="-4.1614889259">
+<name>WP2801</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.5933694751" lon="-4.1601628158">
+<name>WP2802</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 J1-J23</name>
+<type>Route:Dartmoor 365 Grid:Horizontal Lines</type>
+<rtept lat="50.6078376131" lon="-4.1608255988">
+<name>WP3101</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.6163647501" lon="-3.6380413615">
+<name>WP3102</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 N2-P2</name>
+<type>Route:Dartmoor 365 Grid:Vertical Lines</type>
+<rtept lat="50.5503836662" lon="-4.1354689807">
+<name>WP3001</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.5069779734" lon="-4.1335095626">
+<name>WP3002</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 H2-L2</name>
+<type>Route:Dartmoor 365 Grid:Vertical Lines</type>
+<rtept lat="50.6371040442" lon="-4.1393982274">
+<name>WP2601</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.5648521458" lon="-4.1361231917">
+<name>WP2902</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 I1-I23</name>
+<type>Route:Dartmoor 365 Grid:Horizontal Lines</type>
+<rtept lat="50.6223057087" lon="-4.1614889259">
+<name>WP2801</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.6308372099" lon="-3.6385444279">
+<name>WP2802</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 G3-Q3</name>
+<type>Route:Dartmoor 365 Grid:Vertical Lines</type>
+<rtept lat="50.6519881897" lon="-4.1172977015">
+<name>WP2401</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.4929229121" lon="-4.1101759286">
+<name>WP2702</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 H2-H23</name>
+<type>Route:Dartmoor 365 Grid:Horizontal Lines</type>
+<rtept lat="50.6371040442" lon="-4.1393982274">
+<name>WP2601</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.6452197392" lon="-3.6390447791">
+<name>WP2602</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 F23-I23</name>
+<type>Route:Dartmoor 365 Grid:Vertical Lines</type>
+<rtept lat="50.6741644602" lon="-3.6400529752">
+<name>WP2102</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.6163647501" lon="-3.6380413615">
+<name>WP2502</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 G3-G23</name>
+<type>Route:Dartmoor 365 Grid:Horizontal Lines</type>
+<rtept lat="50.6519881897" lon="-4.1172977015">
+<name>WP2401</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.6596921196" lon="-3.6395486701">
+<name>WP2402</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 E22-I22</name>
+<type>Route:Dartmoor 365 Grid:Vertical Lines</type>
+<rtept lat="50.6883158001" lon="-3.6631981667">
+<name>WP2301</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.6160446086" lon="-3.6606471508">
+<name>WP2302</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 - E4-T4</name>
+<type>Route:Dartmoor 365 Grid:Vertical Lines</type>
+<rtept lat="50.6813368397" lon="-4.0958277528">
+<name>WP0101</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.4499246218" lon="-4.0855822871">
+<name>WP2202</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 F4-F23</name>
+<type>Route:Dartmoor 365 Grid:Horizontal Lines</type>
+<rtept lat="50.6668682746" lon="-4.0951832139">
+<name>WP2101</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.6741644602" lon="-3.6400529752">
+<name>WP2102</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 K21-M21</name>
+<type>Route:Dartmoor 365 Grid:Vertical Lines</type>
+<rtept lat="50.6012466884" lon="-3.6828207610">
+<name>WP2001</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.5578291259" lon="-3.6813301406">
+<name>WP2002</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 D21-I21</name>
+<type>Route:Dartmoor 365 Grid:Vertical Lines</type>
+<rtept lat="50.7024603253" lon="-3.6864988241">
+<name>WP1901</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.6157180406" lon="-3.6833938090">
+<name>WP1902</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 D20-O20</name>
+<type>Route:Dartmoor 365 Grid:Vertical Lines</type>
+<rtept lat="50.7021283011" lon="-3.7092869573">
+<name>WP1801</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.5285544358" lon="-3.7030053401">
+<name>WP1802</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 C19-P19</name>
+<type>Route:Dartmoor 365 Grid:Vertical Lines</type>
+<rtept lat="50.7162633708" lon="-3.7326082078">
+<name>WP1701</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.5137479488" lon="-3.7251815215">
+<name>WP1702</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 C18-P18</name>
+<type>Route:Dartmoor 365 Grid:Vertical Lines</type>
+<rtept lat="50.7159222670" lon="-3.7554024792">
+<name>WP1601</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.5134092788" lon="-3.7478782230">
+<name>WP1602</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 C17-S17</name>
+<type>Route:Dartmoor 365 Grid:Vertical Lines</type>
+<rtept lat="50.7155767088" lon="-3.7781963059">
+<name>WP1501</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.4696507828" lon="-3.7689518721">
+<name>WP1502</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 C16-U16</name>
+<type>Route:Dartmoor 365 Grid:Vertical Lines</type>
+<rtept lat="50.7152266962" lon="-3.8009896821">
+<name>WP1401</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.4403603506" lon="-3.7905335747">
+<name>WP1402</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 C15-V15</name>
+<type>Route:Dartmoor 365 Grid:Vertical Lines</type>
+<rtept lat="50.7148722297" lon="-3.8237826019">
+<name>WP1301</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.4255377052" lon="-3.8126414572">
+<name>WP1302</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 C14-W14</name>
+<type>Route:Dartmoor 365 Grid:Vertical Lines</type>
+<rtept lat="50.7145133093" lon="-3.8465750597">
+<name>WP1201</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.4108008566" lon="-3.8347390186">
+<name>WP1202</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 B13-W13</name>
+<type>Route:Dartmoor 365 Grid:Vertical Lines</type>
+<rtept lat="50.7286203592" lon="-3.8699431236">
+<name>WP0102</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.4104413625" lon="-3.8573851434">
+<name>WP1102</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 C5-U5</name>
+<type>Route:Dartmoor 365 Grid:Vertical Lines</type>
+<rtept lat="50.7106817136" lon="-4.0743314222">
+<name>WP0201</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.4358593110" lon="-4.0622911629">
+<name>WP1002</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 B6-U6</name>
+<type>Route:Dartmoor 365 Grid:Vertical Lines</type>
+<rtept lat="50.7255539865" lon="-4.0521760130">
+<name>WP0101</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.4362588296" lon="-4.0396356645">
+<name>WP0902</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 A13-X13</name>
+<type>Route:Dartmoor 365 Grid:Vertical Lines</type>
+<rtept lat="50.7427225380" lon="-3.8933252185">
+<name>WP0002</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.3956063263" lon="-3.8794581402">
+<name>WP0802</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 A12-X12</name>
+<type>Route:Dartmoor 365 Grid:Vertical Lines</type>
+<rtept lat="50.7423498760" lon="-3.9161302851">
+<name>WP0701</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.3952382088" lon="-3.9020964466">
+<name>WP0702</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 A11-X11</name>
+<type>Route:Dartmoor 365 Grid:Vertical Lines</type>
+<rtept lat="50.7419727565" lon="-3.9389348655">
+<name>WP0601</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.3948656881" lon="-3.9247342791">
+<name>WP0602</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 A10-W10</name>
+<type>Route:Dartmoor 365 Grid:Vertical Lines</type>
+<rtept lat="50.7415911797" lon="-3.9617389541">
+<name>WP0501</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.4089593295" lon="-3.9479649561">
+<name>WP0502</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 368 A8-U8</name>
+<type>Route:Dartmoor 365 Grid:Vertical Lines</type>
+<rtept lat="50.7408170944" lon="-4.0072039999">
+<name>WP0401</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.4371929655" lon="-3.9943949510">
+<name>WP0402</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 A9-W9</name>
+<type>Route:Dartmoor 365 Grid:Vertical Lines</type>
+<rtept lat="50.7412051459" lon="-3.9845425450">
+<name>WP0301</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.4085778082" lon="-3.9706087094">
+<name>WP0302</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 E4-E22</name>
+<type>Route:Dartmoor 365 Grid:Horizontal Lines</type>
+<rtept lat="50.6813368397" lon="-4.0958277528">
+<name>WP0101</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.6883158001" lon="-3.6631981667">
+<name>WP0102</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 D5-D21</name>
+<type>Route:Dartmoor 365 Grid:Horizontal Lines</type>
+<rtept lat="50.6962130239" lon="-4.0736928247">
+<name>WP0002</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.7024603253" lon="-3.6864988241">
+<name>WP0001</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 C5-C19</name>
+<type>Route:Dartmoor 365 Grid:Horizontal Lines</type>
+<rtept lat="50.7106817136" lon="-4.0743314222">
+<name>WP0201</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.7164431413" lon="-3.7326148385">
+<name>WP0202</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 B6-B13</name>
+<type>Route:Dartmoor 365 Grid:Horizontal Lines</type>
+<rtept lat="50.7255539865" lon="-4.0521760130">
+<name>WP0101</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.7286203592" lon="-3.8699431236">
+<name>WP0102</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 A7-T7</name>
+<type>Route:Dartmoor 365 Grid:Vertical Lines</type>
+<rtept lat="50.7404221749" lon="-4.0300065813">
+<name>WP0001</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.4513035394" lon="-4.0176027461">
+<name>WP0202</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+<rte>
+<name>Dartmoor 365 A7-A12</name>
+<type>Route:Dartmoor 365 Grid:Horizontal Lines</type>
+<rtept lat="50.7404221749" lon="-4.0300065813">
+<name>WP0001</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+<rtept lat="50.7427225380" lon="-3.8933252185">
+<name>WP0002</name>
+<sym>Tiny dot</sym>
+<type>Waypoints</type>
+</rtept>
+</rte>
+</gpx>

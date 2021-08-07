@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+  <metadata>
+    <name>Tracking on 28 April 2021</name>
+    <author>
+      <name>Andrew Poyntz - Community</name>
+    </author>
+    <link href="https://www.outdooractive.com/r/208089582"/>
+    <time>2021-05-02T14:22:50.719</time>
+    <extensions>
+      <oa:oaCategory>trackHikingTourTrail</oa:oaCategory>
+    </extensions>
+  </metadata>
+  <trk>
+    <name>Tracking on 28 April 2021</name>
+    <type>trackHikingTourTrail</type>
+    <trkseg>
+      <trkpt lat="50.577618" lon="-3.810218">
+        <ele>244.22058</ele>
+        <time>2021-04-28T17:02:43.116Z</time>
+      </trkpt>
+      <trkpt lat="50.577479" lon="-3.810492">
+        <ele>244.26491</ele>
+        <time>2021-04-28T17:02:55.365Z</time>
+      </trkpt>
+      <trkpt lat="50.57742" lon="-3.810576">
+        <ele>244.50491</ele>
+        <time>2021-04-28T17:03:02.014Z</time>
+      </trkpt>
+      <trkpt lat="50.577304" lon="-3.810705">
+        <ele>244.72672</ele>
+        <time>2021-04-28T17:03:13.000Z</time>
+      </trkpt>
+      <trkpt lat="50.577283" lon="-3.810722">
+        <ele>244.76467</ele>
+        <time>2021-04-28T17:03:15.000Z</time>
+      </trkpt>
+      <trkpt lat="50.577267" lon="-3.810749">
+        <ele>244.80177</ele>
+        <time>2021-04-28T17:03:18.000Z</time>
+      </trkpt>
+      <trkpt lat="50.57725" lon="-3.810799">
+        <ele>244.94664</ele>
+        <time>2021-04-28T17:03:27.000Z</time>
+      </trkpt>
+      <trkpt lat="50.577258" lon="-3.810852">
+        <ele>245.19112</ele>
+        <time>2021-04-28T17:03:30.000Z</time>
+      </trkpt>
+      <trkpt lat="50.577244" lon="-3.810893">
+        <ele>245.33729</ele>
+        <time>2021-04-28T17:03:33.000Z</time>
+      </trkpt>
+      <trkpt lat="50.577224" lon="-3.81091">
+        <ele>245.36371</ele>
+        <time>2021-04-28T17:03:36.000Z</time>
+      </trkpt>
+      <trkpt lat="50.577168" lon="-3.810849">
+        <ele>245.98169</ele>
+        <time>2021-04-28T17:06:43.001Z</time>
+      </trkpt>
+      <trkpt lat="50.5772" lon="-3.810828">
+        <ele>246.04744</ele>
+        <time>2021-04-28T17:06:53.001Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
