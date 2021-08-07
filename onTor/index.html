@@ -22,7 +22,7 @@
 		const numOfFiles = 112;
 		L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {}).addTo(map);
 		let bounds = L.latLngBounds([59.55, -3.9]);
-		let skip =[71,78,79,81,82,86,92,94,101,107];
+		let skip =[71,78,79,82,86,92,94,101,107];
 		for(let i=1; i <= numOfFiles; i++){
 			let gpx = i + '.gpx';
 			if(!skip.includes(i)) {
