@@ -2,14 +2,11 @@ name: Second action
 
 on:
   # Manual trigger from the UI
-  push:
   workflow_dispatch:
   workflow_run:
     workflows: ["First action"]
     types:
       - completed
-  workflow_call:
-    workflows: ["First action"]
 
 
 jobs:
