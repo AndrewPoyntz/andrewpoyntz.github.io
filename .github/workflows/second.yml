@@ -1,0 +1,18 @@
+name: Second action
+
+on:
+  # Manual trigger from the UI
+
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["First_action"]
+    types:
+      - completed
+
+
+jobs:
+  say_hi_again:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Hi again
+        run: echo "Hi from the second action"
