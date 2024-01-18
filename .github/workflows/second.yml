@@ -3,12 +3,12 @@ name: Second action
 on:
   # Manual trigger from the UI
   workflow_dispatch:
-
-  # Dependency to a forking workflow
   workflow_run:
     workflows: ["First action"]
-    type:
-      - complete
+    types:
+      - completed
+  workflow_call:
+    workflows: ["First action"]
 
 
 jobs:
