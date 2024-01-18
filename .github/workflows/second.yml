@@ -2,7 +2,7 @@ name: Second action
 
 on:
   # Manual trigger from the UI
-  push:
+
   workflow_dispatch:
   workflow_run:
     workflows: ["First_action"]
